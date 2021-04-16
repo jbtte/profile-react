@@ -16,7 +16,6 @@ function Banner (props) {
       <div class="container">
         <h1>{props.title}</h1>
         <p>{props.text}</p>
-        <a class="btn btn-flat" href="#">{props.button}</a>
       </div>
     </div>
   );
