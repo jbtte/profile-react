@@ -6,7 +6,7 @@ export default function Projects () {
 
 
   return (<div className="m-5 p-5">
-      <h1 className='text-white text-center mt-5'>My Projects</h1>
+      <h1 className='text-white text-center mt-5'>Things I did</h1>
 
       <div className="pt-2 col-sm-12 d-flex flex-wrap justify-content-around">
       {projects.map(project => {
