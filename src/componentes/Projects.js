@@ -18,7 +18,7 @@ export default function Projects () {
           <img src={`/images/${project}.png`}
                     alt={project}
                     width="450"
-                    height="270"
+                    height="260"
                     className='mx-4 mt-5'/>
                   <h5 className="text-white text-center my-5">{project}</h5>
                 </a>)
