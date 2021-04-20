@@ -4,7 +4,6 @@ export default function Projects () {
   const projects = ['mister-cocktail-lewagon-bsb', 'traduz-facil',
                     'justicasimples', 'my-marvel-world'];
 
-  const logo = '/assets/justicasimples.png';
 
   return (<div className="m-5 p-5">
       <h1 className='text-white text-center mt-5'>My Projects</h1>
