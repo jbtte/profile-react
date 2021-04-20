@@ -5,7 +5,7 @@ function TechStack () {
                   'heroku-icon', 'javascript', 'html-5', 'postgresql',
                  'python']
 
-  return (<div>
+  return (<div className='mb-5'>
     <h1 className='text-white text-center'>Tech Stack</h1>
 
     <div className='mx-5' style={{columnCount: 5}}>
