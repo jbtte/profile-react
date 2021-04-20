@@ -6,13 +6,19 @@ export default function Contact ({size, text}) {
   <div style={{marginTop: "100px", marginBottom: "60px"}}>
     <h3 className="text-center text-white mb-5">{text}</h3>
     <div className="d-flex justify-content-center">
-      <a className="mx-5" href="https://github.com/jbtte">
+      <a className="mx-5"
+        href="https://github.com/jbtte"
+        target="_blank"
+        rel="noopener noreferrer">
         <img className= "text-white"
             src="/images/github-icon.png"
             alt="github icon"
-            style={{width: `${size}px` }} />
+            style={{width: `${size}px` }}/>
       </a>
-      <a className="mx-5" href="https://www.linkedin.com/in/jbtte/">
+      <a className="mx-5"
+        href="https://www.linkedin.com/in/jbtte/"
+        target="_blank"
+        rel="noopener noreferrer">
         <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg"
             alt="linkedin icon"
             style={{width: `${size}px` }}/>
