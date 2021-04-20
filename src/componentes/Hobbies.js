@@ -6,7 +6,7 @@ export default function Hobbies () {
   return (<div>
     <h1 className='text-white text-center'>Something Something About Me</h1>
     <div className='d-flex justify-content-around row m-5'>
-      <div className='col-5'>
+      <div className='col-5 border-top border-bottom border-white'>
         <h3 className='text-white text-center'>Me</h3>
         <p className='text-white text-center'>
         I am Full-Stack developer with a law degree. I split my time working on my
@@ -18,7 +18,7 @@ export default function Hobbies () {
 
       </div>
 
-      <div className='col-5'>
+      <div className='col-sm-9 col-md-5 border-top border-bottom border-white'>
         <h3 className='text-white text-center'>Off time </h3>
         <ul className="text-white my-4" style={{listStyleType: 'none'}}>
           <li className='my-3'>Voracious reader 📚</li>
