@@ -4,7 +4,7 @@ import Contact from './Contact.js'
 export default function Hobbies () {
 
   return (<div>
-    <h1 className='text-white text-center'>Something Something About Me</h1>
+    <h1 className='text-white text-center'>Something About Me</h1>
     <div className='d-flex justify-content-around row m-5'>
       <div className='col-5 border-top border-bottom border-white'>
         <h3 className='text-white text-center'>Me</h3>
