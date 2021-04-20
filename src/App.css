@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@600&family=Roboto+Slab:wght@100&display=swap');
+
 .App {
   text-align: center;
 }
@@ -40,6 +42,16 @@
 /* GENERAL */
 body {
   background-color: black;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Darker Grotesque', sans-serif;
+  font: white;
+}
+
+p {
+  font: white;
 }
 
 /* BUTTON   */

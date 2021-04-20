@@ -2,10 +2,12 @@ import logo from './logo.svg';
 import './App.css';
 
 import MainBanner from './componentes/MainBanner.js';
-import Bio from './componentes/Bio.js';
+import Contact from './componentes/Contact.js';
 import TechStack from './componentes/TechStack.js';
 import Hobbies from './componentes/Hobbies.js';
 import Projects from './componentes/Projects.js';
+import Banner from './componentes/Banner.js';
+
 
 
 
@@ -13,13 +15,19 @@ function App() {
   return (<>
       <MainBanner/>
 
-      <Bio />
+      <Contact size={50} text={"Have an idea for an App? Let's get in touch!"}/>
 
-      <TechStack /> // TODO
+      <Banner img={'/images/code.jpg'}/>
 
-      <Projects /> // TODO
+      <TechStack />
 
-      <Hobbies /> // TODO
+      <Banner img={'/images/keyboard.jpg'}/>
+
+      <Projects />
+
+      <Banner img={'/images/guitar.jpg'}/>
+
+      <Hobbies />
 
   </>);
 }
