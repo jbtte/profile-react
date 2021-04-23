@@ -18,11 +18,11 @@ function App() {
 
       <Banner img={'/images/code.jpg'}/>
 
-      <TechStack />
+      <Projects />
 
       <Banner img={'/images/keyboard.jpg'}/>
 
-      <Projects />
+      <TechStack />
 
       <Banner img={'/images/guitar.jpg'}/>
 
