@@ -1,6 +1,72 @@
-# Getting Started with Create React App
+# Personal Portfolio
+## About
+This webapp is a personal portfolio page.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Netlify](https://img.shields.io/netlify/0fdc70f0-9c78-4a38-9553-24005a7c56f0)
+![GitHub](https://img.shields.io/github/license/jbtte/profile-react)
+
+## Table of Contents
+<!--ts-->
+   * [About](##about)
+   * [Table of Contents](##table-of-contents)
+   * [Project Status](##project-status)
+   * [Features](##features)
+   * [Live Link](##live-link)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
+
+## Project Status
+In production
+Version: 1.0.1
+
+## Features
+- [x] Shows the projects developed
+- [x] Tech stack
+- [x] Contact information
+- [x] Some personal information
+
+## Live link
+https://jbtte.me/
+
+## Instalation
+### Dependencies
+Before you begin the instalation process, you must have installed:
+* [Git](https://git-scm.com)
+* [Node.js](https://nodejs.org/en/)
+
+Besides that you should have a code editor, for example [VSCode](https://code.visualstudio.com/)
+
+### Local machine
+```bash
+# Clone the repository
+$ git clone <https://github.com/jbtte/profile-react>
+
+# Enter project directory
+$ cd profile-react
+
+# Install dependecies1
+$ npm install
+
+# Execute application on development mode
+$ react-scripts start
+
+# Server will start on port:3000 - enter <http://localhost:3000>
+```
+## 🛠 Tools
+
+The following tools where used:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ## Available Scripts
 
@@ -39,32 +105,35 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Version
+1.0.1
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Code Status
+### License
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
 
-### Code Splitting
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Credits
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Analyzing the Bundle Size
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<a href="jbtte.me">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>JP Baumotte</b></sub></a> <a href="https://jbtte.me">🚀</a>
+ 
+ Made with ❤️ by JP Baumotte 👋🏽 Let's get in touch!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbtte/)](https://www.linkedin.com/in/jbtte/) 
+[![Gmail Badge](https://img.shields.io/badge/-jbaumotteo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbaumotteo@gmail.com)](mailto:jbaumotteo@gmail.com)
