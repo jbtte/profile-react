@@ -5,10 +5,10 @@ This webapp is a personal portfolio page.
 ![Netlify](https://img.shields.io/netlify/0fdc70f0-9c78-4a38-9553-24005a7c56f0)
 ![GitHub](https://img.shields.io/github/license/jbtte/profile-react)
 
-## Table of Contents
+<div id="table-of-contents>## Table of Contents
 <!--ts-->
-   * [About](##about)
-   * [Table of Contents](##table-of-contents)
+   * [About](#about)
+   * [Table of Contents](#table-of-contents)
    * [Project Status](##project-status)
    * [Features](##features)
    * [Live Link](##live-link)
@@ -21,7 +21,7 @@ This webapp is a personal portfolio page.
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
-
+         </div>
 ## Project Status
 In production
 Version: 1.0.1
@@ -68,7 +68,7 @@ The following tools where used:
 - [React Native](https://reactnative.dev/)
 - [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Available Scripts
+<div id="available-scripts">## Available Scripts
 
 In the project directory, you can run:
 
@@ -104,7 +104,7 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
+</div>
 ## Version
 1.0.1
 
@@ -129,7 +129,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Author
 
 <a href="jbtte.me">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/4759003?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>JP Baumotte</b></sub></a> <a href="https://jbtte.me">🚀</a>
  
