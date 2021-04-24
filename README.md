@@ -136,4 +136,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  Made with ❤️ by JP Baumotte 👋🏽 Let's get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-JP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbtte/)](https://www.linkedin.com/in/jbtte/) 
-[![Gmail Badge](https://img.shields.io/badge/-jbaumotteo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbaumotteo@gmail.com)](mailto:jbaumotteo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jbaumotte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbaumotteo@gmail.com)](mailto:jbaumotteo@gmail.com)
