@@ -5,23 +5,23 @@ This webapp is a personal portfolio page.
 ![Netlify](https://img.shields.io/netlify/0fdc70f0-9c78-4a38-9553-24005a7c56f0)
 ![GitHub](https://img.shields.io/github/license/jbtte/profile-react)
 
-<div id="table-of-contents>## Table of Contents
+## Table of Contents
 <!--ts-->
    * [About](#about)
    * [Table of Contents](#table-of-contents)
-   * [Project Status](##project-status)
-   * [Features](##features)
-   * [Live Link](##live-link)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
+   * [Project Status](#project-status)
+   * [Features](#features)
+   * [Live Link](#live-link)
+   * [Instalation](#instalation)
+      * [Dependencies](#dependencies)
+      * [Local machine](#local-machine)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
-         </div>
+
 ## Project Status
 In production
 Version: 1.0.1
@@ -68,7 +68,7 @@ The following tools where used:
 - [React Native](https://reactnative.dev/)
 - [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
-<div id="available-scripts">## Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
@@ -104,7 +104,7 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-</div>
+
 ## Version
 1.0.1
 
@@ -135,5 +135,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
  Made with ❤️ by JP Baumotte 👋🏽 Let's get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbtte/)](https://www.linkedin.com/in/jbtte/) 
+[![Linkedin Badge](https://img.shields.io/badge/-JP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbtte/)](https://www.linkedin.com/in/jbtte/) 
 [![Gmail Badge](https://img.shields.io/badge/-jbaumotteo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbaumotteo@gmail.com)](mailto:jbaumotteo@gmail.com)
