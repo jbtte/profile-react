@@ -1,12 +1,79 @@
-# Getting Started with Create React App
+# Personal Portfolio
+## About
+This webapp was developed as a personal portfolio page.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Netlify](https://img.shields.io/netlify/0fdc70f0-9c78-4a38-9553-24005a7c56f0)
+![GitHub](https://img.shields.io/github/license/jbtte/profile-react)
+
+## Table of Contents
+<!--ts-->
+   * [About](#about)
+   * [Table of Contents](#table-of-contents)
+   * [Project Status](#project-status)
+   * [Features](#features)
+   * [Live Link](#live-link)
+   * [Instalation](#instalation)
+      * [Dependencies](#dependencies)
+      * [Local machine](#local-machine)
+   * [Libraries and Technologies](#libraries-and-technologies)
+   * [Available Scripts](#available-scripts)
+   * [Code Status](#code-status)
+      * [License](#license)
+      * [Credits](#credits)
+      * [Author](#author)
+<!--te-->
+
+## Project Status
+In production
+Version: 1.0.1
+
+## Features
+- [x] Shows the projects developed
+- [x] Tech stack
+- [x] Contact information
+- [x] Some personal information
+
+## Live link
+https://jbtte.me/
+
+## Instalation
+### Dependencies
+Before you begin the instalation process, you must have installed:
+* [Git](https://git-scm.com)
+* [Node.js](https://nodejs.org/en/)
+
+Besides that you should have a code editor, for example [VSCode](https://code.visualstudio.com/)
+
+### Local machine
+```bash
+# Clone the repository
+$ git clone https://github.com/jbtte/profile-react
+
+# Enter project directory
+$ cd profile-react
+
+# Install dependecies1
+$ npm install
+
+# Execute application on development mode
+$ react-scripts start
+
+# Server will start on port:3000 - enter <http://localhost:3000>
+```
+## 🛠 Libraries and Technologies
+
+The following tools where used:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+ **`yarn start`**
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +81,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+**`yarn test`**
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+**`yarn build`**
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,7 +96,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+**`yarn eject`**
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -39,32 +106,32 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Code Status
+### License
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>
 
-### Code Splitting
+### Credits
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
 
-### Analyzing the Bundle Size
+<a href="jbtte.me">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/4759003?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>JP Baumotte</b></sub></a> <a href="https://jbtte.me">🚀</a>
+ 
+ Made with ❤️ by JP Baumotte 👋🏽 Let's get in touch!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Linkedin Badge](https://img.shields.io/badge/-JP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbtte/)](https://www.linkedin.com/in/jbtte/) 
+[![Gmail Badge](https://img.shields.io/badge/-jbaumotte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbaumotteo@gmail.com)](mailto:jbaumotteo@gmail.com)
