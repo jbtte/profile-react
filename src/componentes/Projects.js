@@ -22,6 +22,17 @@ export default function Projects () {
                   <h5 className="text-white text-center my-5">{project}</h5>
                 </a>)
       })}
+      <a href={`https://agitated-aryabhata-2a9178.netlify.app/`}
+                  style={{textDecoration: "none"}}
+                  target="_blank"
+                  rel="noopener noreferrer">
+          <img src={`/images/react-weather.png`}
+                    alt='react-weather'
+                    width="450"
+                    height="260"
+                    className='mx-4 mt-5'/>
+                  <h5 className="text-white text-center my-5">Weather App</h5>
+                </a>
       </div>
 
     </div>);

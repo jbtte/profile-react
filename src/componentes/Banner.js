@@ -5,11 +5,9 @@ function Banner (props) {
 
   const gradient = props.main ? "rgba(0,0,0,0.4),rgba(0,0,0,0.4)" : 'rgba(0,0,0,.9)0%,rgba(0,0,0,0.4) 50%, rgba(0,0,0,.8) 100%'
   const style = {
-    backgroundImage: `linear-gradient(${gradient}),
-                      url(${props.img})`,
+    backgroundImage: `linear-gradient(${gradient}), url(${props.img})`,
     width: "100%",
   }
-
 
   return (
     <div class="banner" style={style}>
